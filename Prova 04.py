@@ -1,0 +1,19 @@
+numero_secreto = 42
+tentativas = 0
+
+print("Bem-vindo ao jogo de adivinhação!")
+
+while True:
+    palpite = int(input("Digite um número: "))
+    tentativas += 1
+
+    if palpite == numero_secreto:
+        print("Parabéns! Você acertou o número.")
+        break
+    elif palpite < numero_secreto:
+        print("O número é maior. Tente novamente.")
+    else:
+        print("O número é menor. Tente novamente.")
+
+print("O número adivinhado foi:", numero_secreto)
+print("Número de tentativas:", tentativas)
