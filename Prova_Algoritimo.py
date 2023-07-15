@@ -12,8 +12,8 @@ for c in range(3):
 lista.reverse()
 
 print(f'''
-        O Maior número : {lista[0]}
-        O Menor número : {lista[-1]}''')   
+        O Maior número : {max(lista)}
+        O Menor número : {min(lista)}''')   
     
     
 if lista[0] == lista[1]:
@@ -24,3 +24,18 @@ elif lista[1] == lista[2]:
     print(f'Tem números iguais digitados :{lista[1]} = {lista[2]}') 
 else :
     print(f'Sem números iguais!!')       
+    
+    
+# Seu resultado sobre o maior e menor número está dando errado quando temos números repetidos.
+
+# Mais especificamente nos seguintes testes:
+
+# num1 = 1;   num2 = 2;    num3 = 1
+
+# num1 = 2;   num2 = 1;   num3 = 1
+
+
+
+# A parte de verificar se existem números iguais está ok!
+
+# - Fernanda  
