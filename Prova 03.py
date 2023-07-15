@@ -9,11 +9,13 @@
 lista = []
 cont_20 = 0
 cont_40 = 0
+lista_idade = []
 
-for c in range(4):
+for c in range(2):
     
     nome = input(f'Digite o Nome da Pessoa {c+1} :')
     idade = int(input(f'Digite a Idade da Pessoa {c+1} :'))
+    lista_idade.append(idade)
     sexo = input(f'Digite o Sexo [m/f] da Pessoa {c+1} :')
     
     if idade > 40:
@@ -32,9 +34,15 @@ for c in range(4):
 print(lista)
 lista.sort(key = lambda x:x['Idade'], reverse = True)#Reverse True pessoa ordem decrescente
 print(lista)
+media_idade = sum(lista_idade)/len(lista_idade)
+
+
 
 print(f"""
         Pesssoas com mais de 20  : {cont_20}
         Pesssoas com mais de 40  : {cont_40}
         Sexo da pessoa mais nova : {lista[-1]['Sexo']}
+        O nome da pessoa mais velha: {lista[0]['Nome']}
+        A média das idades do grupo: {media_idade}
                                                         """)
+
