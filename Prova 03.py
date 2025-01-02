@@ -12,7 +12,7 @@ cont_40 = 0
 lista_idade = []
 
 for c in range(2):
-    
+     bxV1PFXY73
     nome = input(f'Digite o Nome da Pessoa {c+1} :')
     idade = int(input(f'Digite a Idade da Pessoa {c+1} :'))
     lista_idade.append(idade)
