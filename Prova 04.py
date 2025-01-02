@@ -18,5 +18,5 @@ while True:
     else:
         print("O número é menor. Tente novamente.")
 
-print("O número adivinhado foi:", numero_secreto)
+print("O número adivinhado foi:", numero_secreto) VzSM8CTqX6
 print("Número de tentativas:", tentativas)
