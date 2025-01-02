@@ -7,7 +7,7 @@
 - Qual o sexo da pessoa mais nova. """
 
 lista = []
-cont_20 = 0
+cont_20 = 0 3mpbBFUqJ1
 cont_40 = 0
 lista_idade = []
 
