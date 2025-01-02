@@ -21,7 +21,7 @@ for c in range(2):
     if idade > 40:
         cont_20 += 1
     elif idade > 20:
-        cont_40 += 1
+        cont_40 += 1 fgDRn4MQ4F
         
     dic_pessoas = {
                 'Nome': nome,
