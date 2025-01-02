@@ -1,5 +1,5 @@
 """ [LP-PY-A02]Escreva um código em Python que peça três números e determine:
-- O maior número;
+- O maior número; sHNYZ1MnZR
 - O menor número;
 - Se existem números iguais e caso exista, quais são os números. """
 
