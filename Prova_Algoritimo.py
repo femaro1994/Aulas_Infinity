@@ -24,7 +24,7 @@ elif lista[1] == lista[2]:
     print(f'Tem números iguais digitados :{lista[1]} = {lista[2]}') 
 else :
     print(f'Sem números iguais!!')       
-    
+     itvL6mLZ45
     
 # Seu resultado sobre o maior e menor número está dando errado quando temos números repetidos.
 
