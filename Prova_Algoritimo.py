@@ -38,4 +38,4 @@ else :
 
 # A parte de verificar se existem números iguais está ok!
 
-# - Fernanda   h92sTJoXxq
+# - Fernanda  
