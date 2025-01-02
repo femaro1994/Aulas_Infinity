@@ -4,7 +4,7 @@ o programa deve informar se o número é maior ou menor que o número a ser adiv
 numero_secreto = 42
 tentativas = 0
 
-print("Bem-vindo ao jogo de adivinhação!") a8cOYcNMpn
+print("Bem-vindo ao jogo de adivinhação!")
 
 while True:
     palpite = int(input("Digite um número: "))
