@@ -3,7 +3,7 @@
 - O menor número;
 - Se existem números iguais e caso exista, quais são os números. """
 
- YgPcFRVGfg
+
 lista = []
 
 for c in range(3):
