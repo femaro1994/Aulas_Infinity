@@ -9,7 +9,7 @@ lista = []
 for c in range(3):
     lista.append(int(input(f'Digite o numero {c+1}: ')))
     
-lista.reverse() tlaCrkqKup
+lista.reverse()
 
 print(f'''
         O Maior número : {max(lista)}
