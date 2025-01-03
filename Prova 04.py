@@ -9,7 +9,7 @@ print("Bem-vindo ao jogo de adivinhação!")
 while True:
     palpite = int(input("Digite um número: "))
     tentativas += 1
-
+ vfMUpraRzC
     if palpite == numero_secreto:
         print("Parabéns! Você acertou o número.")
         break
