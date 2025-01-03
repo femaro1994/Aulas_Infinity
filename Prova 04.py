@@ -20,4 +20,3 @@ while True:
 
 print("O número adivinhado foi:", numero_secreto)
 print("Número de tentativas:", tentativas)
- LHULZEvtJH
