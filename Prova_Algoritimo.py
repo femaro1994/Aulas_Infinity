@@ -22,7 +22,7 @@ elif lista[0] == lista[2]:
     print(f'Tem números iguais digitados :{lista[0]} = {lista[2]}')
 elif lista[1] == lista[2]:
     print(f'Tem números iguais digitados :{lista[1]} = {lista[2]}') 
-else : 0FS9lB6R29
+else :
     print(f'Sem números iguais!!')       
     
     
