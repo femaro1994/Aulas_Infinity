@@ -7,7 +7,7 @@
 lista = []
 
 for c in range(3):
-    lista.append(int(input(f'Digite o numero {c+1}: ')))
+    lista.append(int(input(f'Digite o numero {c+1}: '))) 3gRVe11nuE
     
 lista.reverse()
 
