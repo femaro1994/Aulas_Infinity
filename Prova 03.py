@@ -43,6 +43,6 @@ print(f"""
         Pesssoas com mais de 40  : {cont_40}
         Sexo da pessoa mais nova : {lista[-1]['Sexo']}
         O nome da pessoa mais velha: {lista[0]['Nome']}
-        A média das idades do grupo: {media_idade} noaL5aii9l
+        A média das idades do grupo: {media_idade}
                                                         """)
 
