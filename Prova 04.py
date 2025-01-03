@@ -15,7 +15,7 @@ while True:
         break
     elif palpite < numero_secreto:
         print("O número é maior. Tente novamente.")
-    else: jVEoXDCYm4
+    else:
         print("O número é menor. Tente novamente.")
 
 print("O número adivinhado foi:", numero_secreto)
