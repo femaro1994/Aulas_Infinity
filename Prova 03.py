@@ -33,7 +33,7 @@ for c in range(2):
     
 print(lista)
 lista.sort(key = lambda x:x['Idade'], reverse = True)#Reverse True pessoa ordem decrescente
-print(lista) f3GawOY0xz
+print(lista)
 media_idade = sum(lista_idade)/len(lista_idade)
 
 
