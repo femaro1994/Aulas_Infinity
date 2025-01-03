@@ -31,7 +31,7 @@ else :
 # Mais especificamente nos seguintes testes:
 
 # num1 = 1;   num2 = 2;    num3 = 1
-
+ EIaMidhXrE
 # num1 = 2;   num2 = 1;   num3 = 1
 
 
