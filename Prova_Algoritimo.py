@@ -35,7 +35,7 @@ else :
 # num1 = 2;   num2 = 1;   num3 = 1
 
 
- JEw4N4lRlT
+
 # A parte de verificar se existem números iguais está ok!
 
 # - Fernanda  
